@@ -11,7 +11,7 @@ The Search API and the Stream API are two of Twitter's streaming APIs.
 
 Advantages of Sentiment analysis on Business application of analysis
 
-Brand revitalization
-Elimination of guess work by using insight rich information
-Timely decision making using automated insights
+Brand revitalization,
+Elimination of guess work by using insight rich information,
+Timely decision making using automated insights,
 Enhancing customer or user experience
